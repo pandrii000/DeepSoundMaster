@@ -1,5 +1,5 @@
 # DeepSoundMaster
 
-### Project Scheme
+### Note extractor 
 
-![Project Scheme](scheme.jpg)
+![Note extractor pipeline](note-extractor-pipeline.jpg)
